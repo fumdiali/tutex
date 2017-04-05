@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ad3d10</color>
+    <color name="colorPrimaryDark">#ad3210</color>
+    <color name="bg_gradient_main">#fff</color>
+    <color name="white">#000</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
